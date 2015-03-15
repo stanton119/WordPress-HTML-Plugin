@@ -32,6 +32,7 @@ To add to the HTML head tag, add a custom field with name: "head" and paste the 
 
 1. Custom fields
 2. Editor window
+3. Adding a custom field
 
 == Changelog ==
 
