@@ -1,7 +1,7 @@
 === Wordpress HTML ===
 Contributors: stanton119
 Donate link: http://www.richard-stanton.com/Wordpress-HTML
-Tags: HTML, body, head
+Tags: HTML, body, head, jQuery, ChartJS, D3js, Highcharts, Prototype
 Requires at least: 3.0.1
 Tested up to: 4.2
 Stable tag: 0.1
@@ -19,6 +19,9 @@ When copying HTML into the WordPress editor it adds spurious tags which break va
 Also if you have a single page which requires an extra javascript library or style sheet you normally have to add it through your themes php files. Updating the theme files can be a pain; we normally have to set up an exception for that individual page and load it there. As this information is not available when we are editing the actual pages in the WordPress editor it is quite obstructive.
 
 With WordPress HTML, we can add the library or stylesheet directly to the post/page head without the need to change the theme files. And importantly, all from within the WordPress editor for that page.
+
+Example libraries:
+jQuery, ChartJS, D3js, Highcharts, Prototype
 
 More details: [WordPress HTML](http://www.richard-stanton.com/wordpress/wordpress-html/)
 
