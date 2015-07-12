@@ -12,7 +12,7 @@ Add raw HTML to any post/page, without the Wordpress editor breaking it.
 
 == Description ==
 
-Wordpress HTML allows you to add custom HTML to both the post/page body and the head.
+Wordpress HTML allows you to add custom HTML to both the post/page BODY and the HEAD tags.
 
 When copying HTML into the WordPress editor it adds spurious tags which break various elements and corrupt the HTML. By saving the HTML in the custom fields dialogue the exact HTML will be output to your post/page.
 
