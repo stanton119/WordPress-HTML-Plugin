@@ -1,4 +1,4 @@
-=== Wordpress HTML ===
+=== WordPress HTML ===
 Contributors: stanton119
 Donate link: http://www.richard-stanton.com/Wordpress-HTML
 Tags: HTML, body, head, jQuery, ChartJS, D3js, Highcharts, Prototype
@@ -12,7 +12,7 @@ Add raw HTML to any post/page, without the Wordpress editor breaking it.
 
 == Description ==
 
-Wordpress HTML allows you to add custom HTML to both the post/page BODY and the HEAD tags.
+Wordpress HTML allows you to add custom HTML to both the post/page **BODY** and the **HEAD** tags from the page editor.
 
 When copying HTML into the WordPress editor it adds spurious tags which break various elements and corrupt the HTML. By saving the HTML in the custom fields dialogue the exact HTML will be output to your post/page.
 
