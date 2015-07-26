@@ -25,6 +25,8 @@ jQuery, ChartJS, D3js, Highcharts, Prototype
 
 More details: [WordPress HTML](http://www.richard-stanton.com/wordpress/wordpress-html/)
 
+Code: [GitHub](https://github.com/stanton119/WordPress-HTML-Plugin)
+
 == Installation ==
 
 Upload the plugin to your blog and activate it.
