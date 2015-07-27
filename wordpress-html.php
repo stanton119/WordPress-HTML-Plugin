@@ -20,7 +20,7 @@ function bodyhtml($atts, $content = null) {
 		}
 	}
 }
-add_shortcode('body', 'bodyhtml');
+add_shortcode('body', 'bodyhtml');	// adds shortcode 'body' when used, implements function 'bodyhtml'
 
 function headhtml(){
 	global $post;
